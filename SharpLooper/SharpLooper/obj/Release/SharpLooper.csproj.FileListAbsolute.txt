@@ -1,0 +1,10 @@
+C:\progr\Music\SharpLooper\SharpLooper\bin\Release\SharpLooper.exe.config
+C:\progr\Music\SharpLooper\SharpLooper\bin\Release\SharpLooper.exe
+C:\progr\Music\SharpLooper\SharpLooper\bin\Release\SharpLooper.pdb
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.csproj.AssemblyReference.cache
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.Form1.resources
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.Properties.Resources.resources
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.csproj.GenerateResource.cache
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.csproj.CoreCompileInputs.cache
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.exe
+C:\progr\Music\SharpLooper\SharpLooper\obj\Release\SharpLooper.pdb
